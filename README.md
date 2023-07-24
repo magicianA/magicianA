@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 
-- 😀 I’m an undergraduate student at HUST & UCSB
-- 🐟 who loves touching fish and  
+- 😀 I’m a Software Engineer @ ByteDance Inc
+- 🌉 Currently lives in San Jose, CA
+- 🐟 Loves touching fish and  
 - ⚡ interested in Computer Graphics and Programming Language Theory.
 
 
